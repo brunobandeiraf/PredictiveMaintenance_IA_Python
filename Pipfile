@@ -10,6 +10,9 @@ matplotlib = "*"
 ipykernel = "*"
 sweetviz = "*"
 setuptools = "*"
+seaborn = "*"
+scikit-learn = "*"
+ipywidgets = "*"
 
 [dev-packages]
 

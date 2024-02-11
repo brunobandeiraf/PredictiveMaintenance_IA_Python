@@ -1,1 +1,5 @@
-# PredictiveMaintenance_IA_Python
+# PredictiveMaintenance IA
+
+## Entrar no ambiente virtual Pandas
+pipenv shell
+

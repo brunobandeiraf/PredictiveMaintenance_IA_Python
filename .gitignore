@@ -1,4 +1,6 @@
-src/1_coleta_e_preparacao/datasets
+src/datasets
+src/eda/conjunto/datasets
+src/aprendizagemMaquina/dataset
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
