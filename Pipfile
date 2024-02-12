@@ -14,6 +14,9 @@ seaborn = "*"
 scikit-learn = "*"
 ipywidgets = "*"
 spicy = "*"
+pingouin = "*"
+gradio = "*"
+uvicorn = "*"
 
 [dev-packages]
 
