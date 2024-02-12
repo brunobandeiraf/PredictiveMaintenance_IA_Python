@@ -17,6 +17,8 @@ spicy = "*"
 pingouin = "*"
 gradio = "*"
 uvicorn = "*"
+gunicorn = "*"
+streamlit = "*"
 
 [dev-packages]
 
