@@ -19,6 +19,9 @@ gradio = "*"
 uvicorn = "*"
 gunicorn = "*"
 streamlit = "*"
+plotly = "*"
+optuna = "*"
+nbformat = "*"
 
 [dev-packages]
 
