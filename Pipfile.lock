@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "37bca22a62abd4285503e0dbffb3d2846975b1f8f8fd718d06efb7cc8e7f0f5c"
+            "sha256": "40a8fff4dfbe1cd399bc59d28974f51edb6767cffa2c9b6babb3579bbc439b76"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -339,6 +339,13 @@
             ],
             "markers": "python_version >= '3.8'",
             "version": "==0.109.2"
+        },
+        "fastjsonschema": {
+            "hashes": [
+                "sha256:3672b47bc94178c9f23dbb654bf47440155d4db9df5f7bc47643315f9c405cd0",
+                "sha256:e3126a94bdc4623d3de4485f8d468a12f02a67921315ddc87836d6e456dc789d"
+            ],
+            "version": "==2.19.1"
         },
         "ffmpy": {
             "hashes": [
@@ -840,6 +847,15 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==0.1.2"
+        },
+        "nbformat": {
+            "hashes": [
+                "sha256:1c5172d786a41b82bcfd0c23f9e6b6f072e8fb49c39250219e4acfff1efe89e9",
+                "sha256:5f98b5ba1997dff175e77e0c17d5c10a96eaed2cbd1de3533d1fc35d5e111192"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==5.9.2"
         },
         "nest-asyncio": {
             "hashes": [
